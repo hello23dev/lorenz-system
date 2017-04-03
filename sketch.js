@@ -5,7 +5,7 @@ var rho = 28;
 
 
 var x = 0.01;
-var y = 0.1;
+var y = 0.0;
 var z = 0.0;
 
 var dt = 0.01;
